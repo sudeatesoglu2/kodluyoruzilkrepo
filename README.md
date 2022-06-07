@@ -35,4 +35,5 @@ Pull requestler kabul edilir. Büyük değişikler için, lütfen önce neyi de�
 # License
 
 [MIT]()
-
+---
+[patika.dev link](https://www.patika.dev/tr)
